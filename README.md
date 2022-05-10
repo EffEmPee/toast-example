@@ -10,7 +10,7 @@ This is a simple kit for front-end development
 
 <br>
 
-### Development srever
+### Development server
 
 ```bash
 npm run dev
